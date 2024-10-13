@@ -38,7 +38,7 @@ First, you will need to create a new project. Unity versions require different p
 
 ?> Please note that `Class Library` and `Class Library (.NET Framework)` are different templates.
 
-Doing so will create a new empty cs file, called `Class1`. This will be our mod main class.<br>
+Doing so will create a new empty cs file, called `Core`. This will be our mod main class.<br>
 I'll rename it `MyMod`. You can change it to whatever you would like though.
 
 You will now need to reference the main MelonLoader assembly. Right click the `Reference` directory, `Add a reference...`, and click `Browse`.<br/>
